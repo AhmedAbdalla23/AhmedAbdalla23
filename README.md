@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed Abdallah
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning back-end development
+- 👀 I’m interested in fullstack development
+- 🌱 I’m front-end developer, and currently learning back-end development
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
